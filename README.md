@@ -127,10 +127,8 @@ Power-ups
 
 - Controls: press `Shift` to dash in your current movement direction, or `Q` / `E` to dash left / right. Some themes are unlocked by high scores and power-ups occasionally spawn.
 
-Background Music
+## 🎮 Play the Game
+Click below to play the live version:
 
-- The game now supports background music for both the menu and gameplay. Place tracks in `assets/music/` as:
-	- `menu_music.ogg` or `menu_music.wav` — menu loop
-	- `game_music.ogg` or `game_music.wav` — gameplay loop
+👉 https://precious-gnome-d44c79.netlify.app/
 
-- If you don't provide these files, the game will auto-generate small placeholder loops (`menu_music.wav` and `game_music.wav`) so you'll hear background audio immediately.
