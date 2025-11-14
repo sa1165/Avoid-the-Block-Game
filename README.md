@@ -113,9 +113,7 @@ Credits
 
 If you'd like, I can also add an automated itch.io publish step, or produce a GitHub Pages landing page that links to the release. Tell me which hosting option you want me to set up next.
 
-Placeholder audio
 
-- If you don't provide audio assets, the game will auto-generate small placeholder WAV files on first run into `assets/sfx/` and `assets/music/`. This lets you hear immediate feedback (clicks, dings, and a short loop) without adding binary files to the repo.
 
 Power-ups
 
@@ -131,4 +129,5 @@ Power-ups
 Click below to play the live version:
 
 👉 https://precious-gnome-d44c79.netlify.app/
+
 
